@@ -1,0 +1,43 @@
+# ===========================
+# Comprehensive Web Security Assessment
+# .gitignore Configuration File
+# ===========================
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.log
+~$*
+
+# Office and document formats (Word backups)
+*.docx
+*.doc
+*.pdf~
+*.pptx
+*.xlsx
+
+# IDE or text editor settings
+.vscode/
+.idea/
+
+# Python cache (if any scripts used)
+__pycache__/
+*.pyc
+
+# Node or web dependencies (if any in future)
+node_modules/
+
+# Environment or sensitive configuration
+.env
+
+# Archives and binaries
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
