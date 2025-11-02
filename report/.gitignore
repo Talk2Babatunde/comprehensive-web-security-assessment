@@ -1,0 +1,30 @@
+# Ignore temporary files
+*.tmp
+*.bak
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore Word and backup documents
+*.docx
+~$*
+
+# Ignore IDE and VS Code settings
+.vscode/
+.idea/
+
+# Ignore compiled or binary files
+*.exe
+*.dll
+*.zip
+
+# Ignore Python cache (if any)
+__pycache__/
+*.pyc
+
+# Ignore OS or hidden folders
+node_modules/
+.env/
